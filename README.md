@@ -10,4 +10,4 @@ Find key metrics and factors and show the meaningful relationships between
 attributes. Do your own research and come up with your findings.
 
 
-# Data visualization :https://public.tableau.com/app/profile/juno.maria.joseph/viz/AnalyzingAmazonSales_17212375557080/Dashboard1
+# Data visualization:https://public.tableau.com/app/profile/juno.maria.joseph/viz/AnalyzingAmazonSales_17212375557080/Dashboard1
